@@ -50,8 +50,8 @@ Step7 : Business Insights and Recommendations
         -  Model 2: Random Forest with GridSearchCV
         -  Model 3: LightGBM with GridSearchCV
 -   The model output provides a probability score for the target variables for all tha above mentioned three models.
--  A reasonable number and a variety of different models are tried and best model os choosen based on Key performance metric. 
--  Model evaluation is conducted using an appropriate metric by omputing ROC-AUC on the test data.
+-  A reasonable number and a variety of different models are tried and best model is choosen based on Key performance metric. 
+-  Model evaluation is conducted using an appropriate metric by computing ROC-AUC on the test data.
 -  The model evaluation results are at par with the best possible methods  (out of Logistic Regression, Random Forest, LightGBM): LightGBM (ROC-AUC: 0.7575) 
 
 Business Insights and Recommendations : 
