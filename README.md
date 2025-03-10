@@ -25,11 +25,17 @@ How to leverage trade level information for Credit Bureaus by aggregating trade 
 We have performed the following steps in order to analyse and build the end to end process of model development & Evaluation with proper insights and recommendations
 
 Step1 : Data Cleaning , Handle Missing Values & Handle Outliers
+
 Step2 : Exploratory Data Analysis (EDA)
+
 Step3 : Feature Engineering
+
 Step4 : EDA After Merging (New Addition) 
+
 Step5 : Model Development - (Updated with Hyperparameter Tuning)
+
 Step6 : Model Evaluation
+
 Step7 : Business Insights and Recommendations
 
 
