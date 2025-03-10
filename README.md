@@ -1,6 +1,7 @@
 # BFSI-Credit-Risk-Domain-case-study
 
-Problem Statement
+Problem Statement:
+
 In this assignment, you would face real world data of applications and bureau as shared by Home Credit, to perform the end-to-end process of model development in Credit Risk for Banks, Financial Institutions and NBFCs.
 
 Build a bank’s internal end-to-end scoring mechanism, based on the application information, clubbed with the raw bureau information.
